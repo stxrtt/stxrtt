@@ -1,7 +1,7 @@
 - 👋 Hello, I’m José
-- 👀 I'm interested in data science, game development, and telecommunications.
-- 🌱 I’m currently studying data science and AI in my CS degree, alongside some C/C# development.
-- 💞️ Happy to collaborate on open source projects using Python or any C variant.
+- 👀 I'm interested in cybersecurity, game development, and telecommunications.
+- 🌱 I’m currently studying a CS degree.
+- 💞️ Happy to collaborate on open source projects using the BBC Micro:bit.
 
 <!---
 stxrtt/stxrtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
